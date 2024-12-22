@@ -1,13 +1,6 @@
 [![MasterHead](https://media1.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif?cid=6c09b9521vax1lwvh8poi82vzw7gm012y1uflu6gtlj53iyf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" 
-src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpandey2005&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpandey2005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005" alt="deepakpandey2005" /></a> </p>
-
 - 🌱 I’m currently learning **Server Side Technology & DSA**
 
 - 👨‍💻 All of my projects are available at [www.deepakpandey.me](www.deepakpandey.me)
@@ -17,6 +10,14 @@ src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 - 📫 How to reach me **panday.deepak2005@gmail.com**
 
 - 🔗Know about me [https://www.linkedin.com/in/deepak-pandey-189a2631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/deepak-pandey-189a2631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<img align="right" alt="Coding" width="400" 
+src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpandey2005&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpandey2005" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005" alt="deepakpandey2005" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
