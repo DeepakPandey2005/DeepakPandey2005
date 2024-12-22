@@ -1,4 +1,3 @@
-[![MasterHead](https://media1.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif?cid=6c09b9521vax1lwvh8poi82vzw7gm012y1uflu6gtlj53iyf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)](https://deepakpandey.me)  
 
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
