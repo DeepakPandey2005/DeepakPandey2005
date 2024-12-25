@@ -11,7 +11,7 @@ src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakpandey2005&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpandey2005" /> </p>
 
 <p align="left">
-- 🌱 I’m currently learning **Server Side Technology & DSA**
+  - 🌱 I’m currently learning **Server Side Technology & DSA**
 
 - 👨‍💻 All of my projects are available at [www.deepakpandey.me](www.deepakpandey.me)
 
