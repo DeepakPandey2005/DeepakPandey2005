@@ -12,13 +12,13 @@ src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left">
   <p align="center">About Me</p>
-- 🌱 I’m currently learning **Server Side Technology & DSA**
 
 - 👨‍💻 All of my projects are available at [www.deepakpandey.me](www.deepakpandey.me)
 
 - 💬 Ask me about **Web Development, MERN stack**
 
 - 📫 How to reach me **panday.deepak2005@gmail.com**
+- 🌱 I’m currently learning **Server Side Technology & DSA**
 
 - 🔗Linkedin [https://www.linkedin.com/in/deepak-pandey-189a2631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/deepak-pandey-189a2631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 </p>
