@@ -2,7 +2,7 @@
   <img alt="Coding GIF" width="850" src="https://media1.giphy.com/media/gCPvobhbCxitDmuBkM/giphy.gif?cid=6c09b9521vax1lwvh8poi82vzw7gm012y1uflu6gtlj53iyf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 </p>
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer & Tech enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" 
 src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
