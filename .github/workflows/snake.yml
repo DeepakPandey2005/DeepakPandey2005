@@ -1,67 +1,30 @@
-name: Generate Profile Assets
+name: Generate Snake
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-assets:
-    name: Generate profile assets
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
-          fetch-depth: 0
-
-      - name: Prepare output directories
-        run: |
-          mkdir -p dist/assets/snake
-          mkdir -p dist/assets/analytics
-
-      - name: Generate contribution snake SVGs
-        uses: Platane/snk/svg-only@v3.5.0
-        with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: deepakpandey2005
           outputs: |
-            dist/assets/snake/github-contribution-grid-snake.svg
-            dist/assets/snake/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Download analytics cards
-        shell: bash
-        run: |
-          set -euo pipefail
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-readme-stats.vercel.app/api?username=deepakpandey2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" -o dist/assets/analytics/github-stats.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" -o dist/assets/analytics/top-langs.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-readme-streak-stats-eight.vercel.app/?user=deepakpandey2005&theme=tokyonight&hide_border=true" -o dist/assets/analytics/streak.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-readme-activity-graph.vercel.app/graph?username=deepakpandey2005&theme=tokyo-night&hide_border=true" -o dist/assets/analytics/activity-graph.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" -o dist/assets/analytics/trophies.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakpandey2005&theme=tokyonight" -o dist/assets/analytics/summary-profile-details.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakpandey2005&theme=tokyonight" -o dist/assets/analytics/summary-repos-per-language.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakpandey2005&theme=tokyonight" -o dist/assets/analytics/summary-most-commit-language.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakpandey2005&theme=tokyonight" -o dist/assets/analytics/summary-stats.svg
-          curl -fsSL --retry 5 --retry-all-errors --connect-timeout 10 --max-time 60 "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepakpandey2005&theme=tokyonight&utcOffset=5.5" -o dist/assets/analytics/summary-productive-time.svg
-
-      - name: Publish SVGs to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          enable_jekyll: false
-          force_orphan: true
-          keep_files: false
-          user_name: github-actions[bot]
-          user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          full_commit_message: Generate contribution snake SVGs
