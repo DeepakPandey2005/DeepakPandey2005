@@ -47,7 +47,7 @@ Full Stack MERN Developer • Next.js Enthusiast • React Native Learner • Co
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/trophies.svg" alt="deepakpandey2005" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&row=2&column=4" alt="deepakpandey2005" />
   </a>
 </p>
 
@@ -217,8 +217,8 @@ A smart productivity application focused on helping students stay consistent thr
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/github-stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/top-langs.svg" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakpandey2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -226,7 +226,7 @@ A smart productivity application focused on helping students stay consistent thr
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/streak.svg" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=deepakpandey2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -234,7 +234,7 @@ A smart productivity application focused on helping students stay consistent thr
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/activity-graph.svg" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakpandey2005&theme=tokyo-night" alt="Contribution graph" />
 </p>
 
 ---
@@ -242,7 +242,7 @@ A smart productivity application focused on helping students stay consistent thr
 # 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/trophies.svg" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
 </p>
 
 ---
@@ -250,17 +250,17 @@ A smart productivity application focused on helping students stay consistent thr
 # 📊 Coding Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/summary-profile-details.svg" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakpandey2005&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/summary-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/summary-most-commit-language.svg" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakpandey2005&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakpandey2005&theme=tokyonight" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/summary-stats.svg" alt="Summary stats" />
-  <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/assets/analytics/summary-productive-time.svg" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakpandey2005&theme=tokyonight" alt="Summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepakpandey2005&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
 ---
