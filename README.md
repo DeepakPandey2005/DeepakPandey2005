@@ -10,7 +10,7 @@ Full Stack MERN Developer • Next.js Enthusiast • React Native Learner • Co
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New+🚀"
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New"
     alt="Typing SVG"
   />
 </p>
@@ -44,10 +44,9 @@ Full Stack MERN Developer • Next.js Enthusiast • React Native Learner • Co
 - 📫 Reach me at **panday.deepak2005@gmail.com**
 - 🔗 LinkedIn: [deepak-pandey-189a2631b](https://www.linkedin.com/in/deepak-pandey-189a2631b)
 
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&row=2&column=4" alt="deepakpandey2005" />
+    <img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="deepakpandey2005" />
   </a>
 </p>
 
@@ -217,8 +216,8 @@ A smart productivity application focused on helping students stay consistent thr
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakpandey2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakpandey2005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpandey2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 ---
@@ -226,7 +225,7 @@ A smart productivity application focused on helping students stay consistent thr
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepakpandey2005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=deepakpandey2005&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
@@ -242,7 +241,7 @@ A smart productivity application focused on helping students stay consistent thr
 # 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakpandey2005&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub trophies" />
 </p>
 
 ---
@@ -363,7 +362,8 @@ A smart productivity application focused on helping students stay consistent thr
 <p align="center">
   <img src="https://raw.githubusercontent.com/deepakpandey2005/deepakpandey2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
- 
+
+---
 
 # ❤️ Thanks for Visiting
 
@@ -374,7 +374,6 @@ A smart productivity application focused on helping students stay consistent thr
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C4FF,100:6C63FF&section=footer" alt="Footer wave" />
 </p>
-
 
 # ✨ Favorite Quote
 
